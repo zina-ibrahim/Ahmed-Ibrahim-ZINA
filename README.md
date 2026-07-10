@@ -121,6 +121,11 @@ Passionné par les **SIG**, la **Data Science**, le **Machine Learning Spatial**
 
 Université Norbert Zongo
 
+🎓 **Licence en Géomatique**
+
+Université Virtuelle
+
+
 🎓 **Licence en Géographie**
 
 Université Norbert Zongo
