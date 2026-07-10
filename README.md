@@ -170,9 +170,9 @@ Université Norbert Zongo
 
 ## 📫 Me contacter
 
-📧 Email : **votre.email@exemple.com**
+📧 Email : **zinaibrahim39@gmail.com**
 
-💼 LinkedIn : **https://linkedin.com/in/votre-profil**
+💼 LinkedIn : **www.linkedin.com/in/ahmed-ibrahim-zina**
 
 🌍 Portfolio : **https://zina-ibrahim.github.io/Ahmed-Ibrahim-ZINA/**
 
