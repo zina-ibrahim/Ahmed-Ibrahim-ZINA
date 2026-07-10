@@ -184,4 +184,4 @@ Université Norbert Zongo
 
 ---
 
-⭐ **Merci de visiter mon profil GitHub !**
+⭐ **Merci de visiter mon site!**
