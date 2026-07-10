@@ -174,7 +174,7 @@ Université Norbert Zongo
 
 💼 LinkedIn : **https://linkedin.com/in/votre-profil**
 
-🌍 Portfolio : **https://votre-site.com**
+🌍 Portfolio : **https://zina-ibrahim.github.io/Ahmed-Ibrahim-ZINA/**
 
 ---
 
