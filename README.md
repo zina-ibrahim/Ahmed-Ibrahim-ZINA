@@ -109,7 +109,7 @@ Passionné par les **SIG**, la **Data Science**, le **Machine Learning Spatial**
 - ✔️ Consultant professionnel
 - ✔️ Google Earth Engine
 - ✔️ Photogrammétrie par drone
-- ✔️ Analyse quantitative et qualitative
+- ✔️ Expert en analyse de donnée quantitative et qualitative
 - ✔️ Production cartographique
 - ✔️ Méthodologie de recherche scientifique
 
@@ -180,7 +180,7 @@ Université Norbert Zongo
 
 ## 💡 Citation
 
-> **"Maps tell where things are. Spatial data explains why they are there."**
+> **"La cartographie montre où les choses se trouvent ; l'analyse des données spatiales révèle pourquoi elles s'y trouvent.."**
 
 ---
 
